@@ -1,2 +1,4 @@
-# wortuhr
-Firmware für ATMEGA328 einer Wortuhr (42GER-Classic Platine)
+# Wortuhr (christians-bastel-laden.de)
+Firmware für den ATMEGA328 einer Wortuhr (läuft über die 42GER-Classic Platine)
+
+- Inhalt folgt -
